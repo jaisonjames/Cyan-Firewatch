@@ -1233,3 +1233,28 @@ div.checkbox span {
 div.help-text {
     color: #ffffff !important;
 }
+
+.channel-pins-wrap {
+    background: transparent !important;
+    background-color: rgba(255,255,255,0.7) !important;
+}
+
+.channel-pins-wrap .header {
+    background: transparent !important;
+    background-color: rgba(0,204,204,0.7) !important;
+}
+
+.channel-pins .message-group {
+    background: transparent !important;
+    background-color: rgba(0,0,0,0.4) !important;
+    border: 1px solid #00cccc !important;
+}
+
+.action-buttons .jump-button {
+    background: transparent !important;
+    background-color: rgba(0,204,204,0.6) !important;
+    border: 1px solid rgba(0,0,0,0.4) !important;
+}
+
+
+
