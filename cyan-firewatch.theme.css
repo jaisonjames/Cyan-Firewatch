@@ -1207,6 +1207,29 @@ div.btn {
 }
 
 button.btn.add-friend {
-  background: transparent !important;
-  background-color: #00cccc !important;
+  background: transparent !important !important;
+  background-color: #00cccc !important !important;
+}
+
+div.flex-horizontal.flex-spacer.content-inner label {
+    color: #ffffff !important;
+}
+
+label.subtitle {
+    color: #00cccc !important;
+}
+
+label.title {
+    color: #00cccc !important;
+}
+
+div.control-group label {
+    color: #00cccc !important;
+}
+
+div.checkbox span {
+    color: #a6a6a6 !important;
+}
+div.help-text {
+    color: #ffffff !important;
 }
