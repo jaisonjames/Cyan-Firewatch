@@ -511,10 +511,8 @@ The theme will activate after the last restart.
         width: 50% !important;
     }
 }
-@media (max-width: 850px) {
-    .channel-members .avatar-large.animate {
-        display: none !important;
-    }
+@media (max-width: 1050px) {
+    
     .voice-connection-quality-fine {
         display: none !important;
     }
