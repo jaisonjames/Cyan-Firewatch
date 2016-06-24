@@ -7,23 +7,23 @@ Also, thank you Fru#4034, Kappa123#0193 and NicodemiusX#5378  for extensively te
 
 Full Resolution Preview:
 
-<img src="https://i.imgur.com/NlybM5o.jpg"/>
+<img src="https://i.imgur.com/ud6fDfP.jpg"/>
 
 Laptop Resolution Preview (Approx 1280x800)
 
-<img src="https://i.imgur.com/95l1GUR.png"/>
+<img src="https://i.imgur.com/boCBaTI.png"/>
 
 Settings Menu:
 
-<img src="https://i.imgur.com/4IJtSPP.jpg"/>
+<img src="https://i.imgur.com/krDiTyb.png"/>
 
 Low Res Support:
 
-<img src="https://i.imgur.com/tG3JL2P.png"/>
+<img src="https://i.imgur.com/JhDXxIo.png"/>
 
 Private / Code Messaging Preview:
 
-<img src="https://i.imgur.com/NuxuppE.jpg"/>
+<img src="https://i.imgur.com/Il46n31.jpg"/>
 
 
 # Installation:
