@@ -1,4 +1,4 @@
-a//META{"name":"Cyan-Firewatch","description":"Supports all resolutions, transparent cyan/teal-based colour scheme with a scenic Firewatch wallpaper as the background.","author":"den","version":"1.0"}*//{}
+//META{"name":"Cyan-Firewatch","description":"Supports all resolutions, transparent cyan/teal-based colour scheme with a scenic Firewatch wallpaper as the background.","author":"den","version":"1.0"}*//{}
 
 
 /* 
@@ -15,9 +15,9 @@ In order to change the colour scheme from cyan to something else, CTRL+F "#00ccc
 
 Other Firewatch-based colour variety themes coming out soon.
 
-Big thank you to @Nirewen#6392, Omniscient#7994, @Zerthox#6648, 🎮Mitchell🎮#5985 and @Hammock#6027 for helping with all of the CSS issues I encountered.
+Big thank you to Nirewen#6392, Maware#2031, Zerthox#6648, Omniscient#7994🎮Mitchell🎮#5985 and Hammock#6027 for helping with all of the CSS issues I encountered.
 
-Also, thank you @Fru#4034, Kappa123#0193 and NicodemiusX#5378  for extensively testing the theme.
+Also, thank you Fru#4034, Kappa123#0193 and NicodemiusX#5378  for extensively testing the theme.
 
 Installation:
 1. Open up discord, navigate to settings > Appearance and select the 'Dark Theme'
@@ -126,11 +126,11 @@ The theme will activate after the last restart.
 }
 .scroller-wrap .scroller::-webkit-scrollbar-thumb {
     background-color: rgba(0, 0, 0, 0.3) !important;
-    border: 2px solid rgba(0, 0, 0, 0.4) !important;
+    border: 1px solid rgba(0, 0, 0, 0.3) !important;
 }
 .scroller-wrap .scroller::-webkit-scrollbar-track-piece {
-    background-color: rgba(0, 0, 0, 0.3) !important;
-    border: 1px solid rgba(0, 0, 0, 0.2) !important;
+    background-color: rgba(0, 0, 0, 0.0) !important;
+    border: 1px solid rgba(0, 0, 0, 0.0) !important;
 }
 .voice-connection-channel {
     color: #000000;
@@ -292,6 +292,7 @@ The theme will activate after the last restart.
     width: auto;
     -webkit-mask-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 1) 2%, rgba(0, 0, 0, 1) 80%, rgba(0, 0, 0, 0) 100%);
 }
+
 .username {
     font-size: 90% !important;
 }
@@ -383,15 +384,31 @@ The theme will activate after the last restart.
 .links {
     display: none;
 }
-@media (max-width: 1550px) {
+
+.account .username {
+        width: 65px !important;
+        font-size:10px !important;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+@media (max-width: 1620px){
     .account .username {
-        display: none !important;
-    }
-    .account .discriminator {
-        display: none !important;
-    }
+        width: 50px !important;
+        font-size:10px !important;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;}
 }
-@media (max-width: 1300px) {
+
+@media (max-width: 1420px) {
+    .account .username {
+        width: 32px !important;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
     .channel-members {
         max-width: 150px !important;
     }
@@ -413,6 +430,8 @@ The theme will activate after the last restart.
         padding-left: 5% !important;
     }
 }
+
+
 .search-bar {
     margin-left: 1.vh !important;
     width: 90%;
@@ -430,10 +449,20 @@ The theme will activate after the last restart.
     color: #00cccc;
     opacity: 1 !Important;
 }
-@media (max-width: 900px) {
+
+
+
+
+@media (max-width: 1210px) {
     .member-username-inner,
     member-activity {
         color: rgba(0, 0, 0, 0.0);
+    }
+    .account .username {
+        display: none !important;
+    }
+    .account .discriminator {
+        display: none !important;
     }
     .channel-members h2 {
         font-size: 6px;
@@ -879,9 +908,7 @@ div p a {
 span.channel-name {
     color: white !important;
 }
-strong.user-name {
-    color: rgba(255, 255, 255, 0.9) !important;
-}
+
 div.markup {
     color: rgba(255, 255, 255, 0.9) !important;
 }
@@ -911,9 +938,9 @@ img.image {
 }
 
 #app-mount > div > span:nth-child(6) > div.modal > div > div > div > img{
-    max-height: 1000px !important; 
+    max-height: 700px !important; 
     width: auto !important;
-    max-width: 680px;
+    max-width: 1000px;
     height: auto !important;
     margin-right: auto !important; 
     margin-left: auto !important;
