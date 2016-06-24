@@ -1125,6 +1125,11 @@ a.embed-title {
 .tab-bar.SIDE .tab-bar-item.selected:before {
     opacity: 0;
 }
+
+.tab-bar.SIDE {
+    margin-right: -17px;
+}
+
 button.btn.btn-default {
     background: transparent !important;
     color: #ffffff !important;
