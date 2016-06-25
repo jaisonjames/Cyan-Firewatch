@@ -1358,4 +1358,70 @@ div[data-bd="backdrop"] {
 
 
 /* Paste into console to pause @innertext box: setTimeout(function(){debugger;}, 5000) */
+/* Styling thanks to Nyxxay#8107 */
 
+
+#rmenu {
+    background: #3DA9A9 !important;
+    border: 1px solid #3DA9A9;
+}
+.emoji-picker .search-bar input {
+    border: 1px solid #3DA9A9;
+    -webkit-animation: searchpulse 2s infinite;
+    animation: searchpulse 2s infinite;
+}
+.bda-dark #bda-qem {
+    background: transparent !important;
+    border-bottom: 1px solid rgba(0, 0, 0, .5) !important;
+}
+.bda-dark #bda-qem button { 
+    background: rgba(0, 0, 0, .15) !important;
+    border: 1px solid rgba(0, 0, 0, .5) !important;
+    box-shadow: transparent !importnat;
+}
+.bda-dark #bda-qem button.active {
+    background: rgba(0, 0, 0, .5) !important;
+}
+.bda-dark #bda-qem-favourite-container,
+.bda-dark #bda-qem-twitch-container, 
+.bda-dark .emoji-picker, 
+.bda-dark .emoji-picker .category,
+.bda-dark .emoji-picker .header .search-bar {
+    background: rgba(0, 0, 0, .5) !important;
+}
+.emoji-picker .sticky-header {
+    background: rgba(0, 0, 0, .75) !important;
+}
+.bda-dark .emoji-picker .scroller::-webkit-scrollbar,
+.bda-dark .emoji-picker .scroller::-webkit-scrollbar-track,
+.bda-dark .emoji-picker .scroller::-webkit-scrollbar-track-piece,
+.bda-dark #bda-qem-favourite-container .scroller::-webkit-scrollbar,
+.bda-dark #bda-qem-favourite-container .scroller::-webkit-scrollbar-track,
+.bda-dark #bda-qem-favourite-container .scroller::-webkit-scrollbar-track-piece,
+.bda-dark #bda-qem-twitch-container .scroller::-webkit-scrollbar,
+.bda-dark #bda-qem-twitch-container .scroller::-webkit-scrollbar-track,
+.bda-dark #bda-qem-twitch-container .scroller::-webkit-scrollbar-track-piece,
+.bda-dark #pubs-container .scroller::-webkit-scrollbar,
+.bda-dark #pubs-container .scroller::-webkit-scrollbar-track,
+.bda-dark #pubs-container .scroller::-webkit-scrollbar-track-piece {   
+    background: rgba(0, 0, 0, .5) !important;
+    border: 1px solid rgba(0, 0, 0, .5) !important;
+    width: 8px;
+}
+.bda-dark #bda-qem-favourite-container .scroller::-webkit-scrollbar-thumb, 
+.bda-dark #bda-qem-twitch-container .scroller::-webkit-scrollbar-thumb, 
+.bda-dark #pubs-container .scroller::-webkit-scrollbar-thumb, 
+.bda-dark .emoji-picker .scroller::-webkit-scrollbar-thumb {
+    border: 1px solid #3DA9A9 !important;
+    background: #3DA9A9 !important;
+}
+.guild-settings-modal-members {
+    border: 1px solid #3DA9A9 !important;
+    background: #3DA9A9 !important;
+}
+.channel-textarea-autocomplete-inner {
+    background:rgba(0,0,0,0.84)!important;
+}
+.channel-textarea-autocomplete-inner header {
+    background:rgba(0,0,0,0.84)!important;
+}
