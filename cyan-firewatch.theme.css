@@ -41,6 +41,11 @@ The theme will activate after the last restart.
     background-size: cover !important;
 }
 
+body {
+-webkit-backface-visibility: hidden;
+}
+
+ .theme-dark .chat{background: transparent;}
 
 #voice-connection {
     border-top: 1px solid rgba(255, 255, 255, 0.0);
