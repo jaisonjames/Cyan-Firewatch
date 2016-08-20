@@ -33,11 +33,11 @@ The theme will activate after the last restart.
 /* Make sure the image you are using is a HTTPS Link Or it WONT work */
 
 .app {
-    background-image: url(https://i.imgur.com/6f8vevM.jpg) !important;
+    background-image: url(https://cdn.discordapp.com/attachments/141229586997444608/186349573193596929/Levantine_Flag.png) !important;
     background-size: cover !important;
 }
 .callout-backdrop {
-    background-image: url(https://i.imgur.com/6f8vevM.jpg) !important;
+    background-image: url(https://cdn.discordapp.com/attachments/141229586997444608/186349573193596929/Levantine_Flag.png) !important;
     background-size: cover !important;
 }
 
