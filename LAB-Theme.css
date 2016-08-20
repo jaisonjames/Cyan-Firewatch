@@ -33,11 +33,11 @@ The theme will activate after the last restart.
 /* Make sure the image you are using is a HTTPS Link Or it WONT work */
 
 .app {
-    background-image: url(https://i.imgur.com/6f8vevM.jpg) !important;
+    background-image: url(https://cdn.discordapp.com/attachments/141229586997444608/186349573193596929/Levantine_Flag.png) !important;
     background-size: cover !important;
 }
 .callout-backdrop {
-    background-image: url(https://i.imgur.com/6f8vevM.jpg) !important;
+    background-image: url(https://cdn.discordapp.com/attachments/141229586997444608/186349573193596929/Levantine_Flag.png) !important;
     background-size: cover !important;
 }
 
@@ -104,7 +104,7 @@ body {
     border-left: 3px solid #00cccc;
 }
 .avatar-large.animate {
-    border: 2px solid rgba(0, 204, 204, 0.6) !important;
+    border: 2px solid rgba(204, 000, 000, 0.6) !important;
     width: 40px;
     height: 40px;
 }
@@ -126,7 +126,7 @@ body {
     opacity: 1;
 }
 .invite-btn {
-    background-color: rgba(0, 204, 204, 0.5) !Important;
+    background-color: rgba(204, 000, 000, 0.5) !Important;
 }
 .private-channels .channel:hover:before {
     opacity: .25 !important;
@@ -584,14 +584,14 @@ body {
     margin-top: 1px;
 }
 .friends-icon {
-    background-color: rgba(0, 204, 204, 0.9);
+    background-color: rgba(204, 0, 0, 0.9);
 }
 .friends-online {
     color: #ffffff;
 }
 .guild-separator {
-    border-top: 2px solid rgba(0, 204, 204, 0.5);
-    border-bottom: 2px solid rgba(0, 204, 204, 0.5);
+    border-top: 2px solid rgba(204, 0, 0, 0.5);
+    border-bottom: 2px solid rgba(204, 0, 0, 0.5);
 }
 .guild-separator:after {
     background-color: transparent !important;
@@ -608,7 +608,7 @@ body {
 }
 .channel-members .member.popout-open {
     background: linear-gradient(to right, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.0)) !important;
-    border-left: 4px solid rgba(0, 204, 204, 0.9);
+    border-left: 4px solid rgba(204, 0, 0, 0.9);
 }
 .status {
     border-color: transparent !important;
@@ -638,11 +638,11 @@ body {
     color: #00cccc !important;
 }
 .divider.divider-red>div {
-    background: rgba(0, 204, 204, 0.7) !important;
+    background: rgba(204, 0, 0, 0.7) !important;
 }
 .channel-textarea-inner textarea {
     padding-left: 10px !important;
-    color: rgba(0, 204, 204, 0.7) !Important;
+    color: rgba(204, 0, 0, 0.7) !Important;
 }
 /* Private Chat */
 
@@ -653,12 +653,12 @@ body {
     margin-left: 2vh;
 }
 .private-channels .channel.selected:before {
-    background-color: linear-gradient(to right, rgba(0, 204, 204, 0.4), rgba(0, 0, 0, 0.0)) !important;
+    background-color: linear-gradient(to right, rgba(204, 0, 0, 0.4), rgba(0, 0, 0, 0.0)) !important;
     border-left: 2px solid #00cccc;
 }
 .priavte-channels .channel:hover::before {
     border-left: 2px solid #00cccc !important;
-    background-color: linear-gradient(to right, rgba(0, 204, 204, 0.4), rgba(0, 0, 0, 0.0)) !important;
+    background-color: linear-gradient(to right, rgba(204, 0, 0, 0.4), rgba(0, 0, 0, 0.0)) !important;
 }
 
 
@@ -671,14 +671,14 @@ body {
 }
 .search-bar-inner input {
     font-size: 62% !important;
-    border: 1px solid rgba(0, 204, 204, 0.4)!important;
+    border: 1px solid rgba(204, 0, 0, 0.4)!important;
 }
 /* Friends */
 
 #friends .friends-table .friends-table-body {
     background-color: rgba(0, 0, 0, 0.3) !important;
     border-radius: 10px;
-    border: 1px solid rgba(0, 204, 204, 0.0);
+    border: 1px solid rgba(0, 0, 0, 0.0);
     margin-left: 1.6vw;
     margin-bottom: 2.5vh;
     margin-right: 2.5vh;
@@ -726,11 +726,11 @@ span.bot-tag {
 /* Guilds 'Add' Button */
 
 .guild.guilds-add {
-    border-color: rgba(0, 204, 204, 0.5) !important;
+    border-color: rgba(0, 0, 0, 0.5) !important;
     border-style: groove !Important;
 }
 .guild.guilds-add:hover {
-    border-color: rgba(0, 204, 204, 0.9) !important;
+    border-color: rgba(0, 0, 0, 0.9) !important;
 }
 /* Speech bubble CSS */
 
@@ -879,11 +879,11 @@ div p a {
 
 .user-popout .header {
     background: transparent;
-    background-image: https: //www.xmple.com/wallpaper/polka-dots-cyan-spots-1920x1080-c2-10c0c7-0cdce5-l2-121-256-a-210-f-3.svg) !important;
+    background-image: https://cdn.discordapp.com/attachments/141229586997444608/186349573193596929/Levantine_Flag.png) !important;
     background-size: cover !important;
 }
 .avatar-popout.animate {
-    border: 3px dotted rgba(0, 204, 204, 0.7) !important;
+    border: 3px dotted rgba(204, 0, 0, 0.7) !important;
     background-color: rgba(255, 255, 255, 0.8) !important;
 }
 .reset-voice-settings {
@@ -910,7 +910,7 @@ div p a {
 
 .channel-textarea-inner textarea {
     padding-left: 10px !important;
-    color: rgba(0, 204, 204, 0.7) !important;
+    color: rgba(204, 0, 0, 0.7) !important;
     background-color: transparent !important;
 }
 span.channel-name {
@@ -998,12 +998,12 @@ span.channel-name {
 }
 header.header {
     background: transparent !important;
-    background-image: url(https://www.xmple.com/wallpaper/polka-dots-cyan-spots-1920x1080-c2-10c0c7-0cdce5-l2-121-256-a-210-f-3.svg) !important;
+    background-image: url(https://cdn.discordapp.com/attachments/141229586997444608/186349573193596929/Levantine_Flag.png) !important;
     background-size: cover !important;
 }
 div.sub-header {
     background: transparent !important;
-    background-color: rgba(0, 204, 204, 0.7) !important;
+    background-color: rgba(0, 0, 0, 0.7) !important;
 }
 div.btn {
     background-color: #00cccc !important;
@@ -1040,7 +1040,7 @@ div.help-text {
 }
 .channel-pins-wrap .header {
     background: transparent !important;
-    background-color: rgba(0, 204, 204, 0.7) !important;
+    background-color: rgba(204, 0, 0, 0.7) !important;
 }
 .channel-pins .message-group {
     background: transparent !important;
@@ -1049,7 +1049,7 @@ div.help-text {
 }
 .action-buttons .jump-button {
     background: transparent !important;
-    background-color: rgba(0, 204, 204, 0.6) !important;
+    background-color: rgba(204, 0, 0, 0.6) !important;
     border: 1px solid rgba(0, 0, 0, 0.4) !important;
 }
 .guild-channels header {
@@ -1063,10 +1063,10 @@ div.help-text {
     border-left: 4px solid rgba(0, 204, 204, 0.3);
 }
 li div span {
-    color: rgba(0, 204, 204, 0.8) !important;
+    color: rgba(204, 0, 0, 0.8) !important;
 }
 .channel-name:before {
-    color: rgba(0, 204, 204, 0.9) !important;
+    color: rgba(204, 0, 0, 0.9) !important;
 }
 .action.create {
     background-color: #ffffff !important;
@@ -1201,26 +1201,26 @@ div.new-messages-bar button {
     transition: all .3s ease-in-out;
 }
 .server-row button {
-    background-color: rgba(0, 244, 244, 0.4) !important;
+    background-color: rgba(204, 0, 0, 0.4) !important;
     border-radius: 5px;
     transition: all .3s ease-in-out;
 }
 
 .server-row button:hover {
-    background-color: rgba(0, 244, 244, 0.7) !important;
+    background-color: rgba(204, 0, 0, 0.7) !important;
     border-radius: 5px;
     transition: all .3s ease-in-out;
 }
 
 .bd-dropdown-select {
-    background-color: rgba(0, 204, 204, 0.9) !important;
+    background-color: rgba(204, 0, 0, 0.9) !important;
     transition: all .3s ease-in-out;
     color: #fff !important;
     border-radius:5px;
 
 }
 input#pubs-sterm {
-    background-color: rgba(0, 204, 204, 0.9) !important;
+    background-color: rgba(204, 0, 0, 0.9) !important;
     transition: all .3s ease-in-out;
     color: #fff !important;
     padding-left:7px;
@@ -1230,7 +1230,7 @@ input#pubs-sterm {
     margin-left:-10px !important;
 }
 button#pubs-searchbtn {
-    background-color: rgba(0, 204, 204, 0.9) !important;
+    background-color: rgba(204, 0, 0, 0.9) !important;
     transition: all .3s ease-in-out;
     color: #fff !important;
     border-radius:5px;
@@ -1241,7 +1241,7 @@ div.bd-dropdown-list {
 }
 .pubs-cat-select-li {
     background: transparent !important;
-    background-color: rgba(0, 204, 204, 0.8) !important;
+    background-color: rgba(204, 0, 0, 0.8) !important;
     transition: all .3s ease-in-out;
     color: #fff !important;
 }
@@ -1276,7 +1276,7 @@ div.bd-dropdown {
 
 #pubs-footer {
     background: transparent !important;
-    background-color: rgba(0, 204, 204, 0.5) !important;
+    background-color: rgba(204, 0, 0, 0.5) !important;
     border-bottom-right-radius: 10px !important;
     border-bottom-left-radius: 10px !important;
     border-top: 1px solid rgba(255,255,255,0.3);
@@ -1341,7 +1341,7 @@ div.bd-dropdown {
 }
 
 #app-mount > div > div.app.flex-vertical.theme-dark > div > section > div.chat.flex-vertical.flex-spacer > div.content.flex-spacer.flex-horizontal > div.flex-spacer.flex-vertical > form > div > div.channel-textarea-autocomplete > div > header{
-    background-color: rgba(0,204,204,0.8) !important;
+    background-color: rgba(204,0,0,0.8) !important;
     color: #fff !important;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
@@ -1349,7 +1349,7 @@ div.bd-dropdown {
 }
 
 #app-mount > div > div.app.flex-vertical.theme-dark > div > section > div.chat.flex-vertical.flex-spacer > div.content.flex-spacer.flex-horizontal > div.flex-spacer.flex-vertical > form > div > div.channel-textarea-autocomplete > div > ul{
-    background-color: rgba(0,204,204,0.6) !important;
+    background-color: rgba(204,0,0,0.6) !important;
     border-bottom-left-radius: 7px;
     border-bottom-right-radius: 7px;
 }
@@ -1362,7 +1362,7 @@ div.bd-dropdown {
 }
 
 div[data-bd="backdrop"] {
-    background-image: url(https://i.imgur.com/6f8vevM.jpg) !important;
+    background-image: url(https://cdn.discordapp.com/attachments/141229586997444608/186349573193596929/Levantine_Flag.png) !important;
     background-size: cover !important;
 }
 
@@ -1372,11 +1372,11 @@ div[data-bd="backdrop"] {
 
 
 #rmenu {
-    background: #3DA9A9 !important;
-    border: 1px solid #3DA9A9;
+    background: #ff0000 !important;
+    border: 1px solid #ff0000;
 }
 .emoji-picker .search-bar input {
-    border: 1px solid #3DA9A9;
+    border: 1px solid #ff0000;
     -webkit-animation: searchpulse 2s infinite;
     animation: searchpulse 2s infinite;
 }
@@ -1422,12 +1422,12 @@ div[data-bd="backdrop"] {
 .bda-dark #bda-qem-twitch-container .scroller::-webkit-scrollbar-thumb, 
 .bda-dark #pubs-container .scroller::-webkit-scrollbar-thumb, 
 .bda-dark .emoji-picker .scroller::-webkit-scrollbar-thumb {
-    border: 1px solid #3DA9A9 !important;
+    border: 1px solid #ff0000 !important;
     background: #3DA9A9 !important;
 }
 .guild-settings-modal-members {
-    border: 1px solid #3DA9A9 !important;
-    background: #3DA9A9 !important;
+    border: 1px solid #ff0000 !important;
+    background: #ff0000 !important;
 }
 .channel-textarea-autocomplete-inner {
     background:rgba(0,0,0,0.84)!important;
